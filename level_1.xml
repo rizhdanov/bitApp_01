@@ -1,0 +1,259 @@
+<?xml version="1.0"?>
+<game>
+<level l="1">
+   <topic>Basic arithmetic</topic>
+   <problem id="0" answer="Yes">$12+4=16$</problem>
+   <problem id="1" answer="Yes">$3+5=8$</problem>
+   <problem id="2" answer="Yes">$6+8=14$</problem>
+   <problem id="3" answer="Yes">$3+11=14$</problem>
+   <problem id="4" answer="Yes">$15-12=3$</problem>
+   <problem id="5" answer="Yes">$25+4=29$</problem>
+   <problem id="6" answer="Yes">$13-4=9$</problem>
+   <problem id="7" answer="Yes">$3·7=21$</problem>
+   <problem id="8" answer="Yes">$6·8=48$</problem>
+   <problem id="9" answer="Yes">$6·7=42$</problem>
+   <problem id="10" answer="Yes">$12·9=108$</problem>
+   <problem id="11" answer="Yes">$42/6=7$</problem>
+   <problem id="12" answer="Yes">$56/4=14$</problem>
+   <problem id="13" answer="Yes">$35/5=7$</problem>
+   <problem id="14" answer="Yes">$16/4=4$</problem>
+   <problem id="15" answer="No">$12+4=14$</problem>
+   <problem id="16" answer="No">$3+5=7$</problem>
+   <problem id="17" answer="No">$6+8=12$</problem>
+   <problem id="18" answer="No">$3+11=15$</problem>
+   <problem id="19" answer="No">$15-11=3$</problem>
+   <problem id="20" answer="No">$25+4=31$</problem>
+   <problem id="21" answer="No">$13-4=11$</problem>
+   <problem id="22" answer="No">$3·7=23$</problem>
+   <problem id="23" answer="No">$6·8=56$</problem>
+   <problem id="24" answer="No">$6·7=56$</problem>
+   <problem id="25" answer="No">$12·9=114$</problem>
+   <problem id="26" answer="No">$42/6=8$</problem>
+   <problem id="27" answer="No">$56/4=12$</problem>
+   <problem id="28" answer="No">$35/5=13$</problem>
+   <problem id="29" answer="No">$16/4=8$</problem>
+   <solution id="0" answer="Yes">$12+4=16$</solution>
+   <solution id="1" answer="Yes">$3+5=8$</solution>
+   <solution id="2" answer="Yes">$6+8=14$</solution>
+   <solution id="3" answer="Yes">$3+11=14$</solution>
+   <solution id="4" answer="Yes">$15-12=3$</solution>
+   <solution id="5" answer="Yes">$25+4=29$</solution>
+   <solution id="6" answer="Yes">$13-4=9$</solution>
+   <solution id="7" answer="Yes">$3·7=21$</solution>
+   <solution id="8" answer="Yes">$6·8=48$</solution>
+   <solution id="9" answer="Yes">$6·7=42$</solution>
+   <solution id="10" answer="Yes">$12·9=108$</solution>
+   <solution id="11" answer="Yes">$42/6=7$</solution>
+   <solution id="12" answer="Yes">$56/4=14$</solution>
+   <solution id="13" answer="Yes">$35/5=7$</solution>
+   <solution id="14" answer="Yes">$16/4=4$</solution>
+   <solution id="15" answer="No">$12+4=16$</solution>
+   <solution id="16" answer="No">$3+5=8$</solution>
+   <solution id="17" answer="No">$6+8=14$</solution>
+   <solution id="18" answer="No">$3+11=14$</solution>
+   <solution id="19" answer="No">$15-11=4$</solution>
+   <solution id="20" answer="No">$25+4=29$</solution>
+   <solution id="21" answer="No">$13-4=9$</solution>
+   <solution id="22" answer="No">$3·7=21$</solution>
+   <solution id="23" answer="No">$6·8=48$</solution>
+   <solution id="24" answer="No">$6·7=42$</solution>
+   <solution id="25" answer="No">$12·9=108$</solution>
+   <solution id="26" answer="No">$42/6=7$</solution>
+   <solution id="27" answer="No">$56/4=14$</solution>
+   <solution id="28" answer="No">$35/5=7$</solution>
+   <solution id="29" answer="No">$16/4=4$</solution>
+</level>
+
+<level l="2">
+   <topic>Simple radicals</topic>
+   <problem id="0" answer="Yes">$√{16}=4$</problem>
+   <problem id="1" answer="Yes">$√2+√2=√8$</problem>
+   <problem id="2" answer="Yes">$√3+√3=√{12}$</problem>
+   <problem id="3" answer="Yes">$√9-√4=1$</problem>
+   <problem id="4" answer="Yes">$√{1/4}=0,5$</problem>
+   <problem id="5" answer="Yes">$√{4/9}=2/3$</problem>
+   <problem id="6" answer="Yes">$(2√7)^2=28$</problem>
+   <problem id="7" answer="Yes">$(7·√{1/7})^2=7$</problem>
+   <problem id="8" answer="Yes">$√2·√8=4$</problem>
+   <problem id="9" answer="Yes">$√3·√12=6$</problem>
+   <problem id="10" answer="Yes">$√{5^2-4^2}=3$</problem>
+   <problem id="11" answer="Yes">$√{4^2+3^2}=5$</problem>
+   <problem id="12" answer="Yes">$√{9/4}=1,5$</problem>
+   <problem id="13" answer="Yes">$√^3{8}=2$</problem>
+   <problem id="14" answer="Yes">$√^3{27}=3$</problem>
+   <problem id="15" answer="No">$√{16}=8$</problem>
+   <problem id="16" answer="No">$√2+√2=√4$</problem>
+   <problem id="17" answer="No">$√3+√3=√{6}$</problem>
+   <problem id="18" answer="No">$√9-√4=√5$</problem>
+   <problem id="19" answer="No">$√{1/4}=2$</problem>
+   <problem id="20" answer="No">$√{4/9}=2/9$</problem>
+   <problem id="21" answer="No">$(2√7)^2=14$</problem>
+   <problem id="22" answer="No">$(7·√{1/7})^2=1$</problem>
+   <problem id="23" answer="No">$√2·√8=√{28}$</problem>
+   <problem id="24" answer="No">$√3·√12=9$</problem>
+   <problem id="25" answer="No">$√{5^2-4^2}=1$</problem>
+   <problem id="26" answer="No">$√{4^2+3^2}=7$</problem>
+   <problem id="27" answer="No">$√{9/4}=√{3/2}$</problem>
+   <problem id="28" answer="No">$√^3{8}=4$</problem>
+   <problem id="29" answer="No">$√^3{27}=9$</problem>
+   <solution id="0" answer="Yes">$√{16}=4$</solution>
+   <solution id="1" answer="Yes">$√2+√2=√8$</solution>
+   <solution id="2" answer="Yes">$√3+√3=√{12}$</solution>
+   <solution id="3" answer="Yes">$√9-√4=1$</solution>
+   <solution id="4" answer="Yes">$√{1/4}=0,5$</solution>
+   <solution id="5" answer="Yes">$√{4/9}=2/3$</solution>
+   <solution id="6" answer="Yes">$(2√7)^2=28$</solution>
+   <solution id="7" answer="Yes">$(7·√{1/7})^2=7$</solution>
+   <solution id="8" answer="Yes">$√2·√8=4$</solution>
+   <solution id="9" answer="Yes">$√3·√12=6$</solution>
+   <solution id="10" answer="Yes">$√{5^2-4^2}=3$</solution>
+   <solution id="11" answer="Yes">$√{4^2+3^2}=5$</solution>
+   <solution id="12" answer="Yes">$√{9/4}=1,5$</solution>
+   <solution id="13" answer="Yes">$√^3{8}=2$</solution>
+   <solution id="14" answer="Yes">$√^3{27}=3$</solution>
+   <solution id="15" answer="No">$√{16}=4$</solution>
+   <solution id="16" answer="No">$√2+√2=√8$</solution>
+   <solution id="17" answer="No">$√3+√3=√{12}$</solution>
+   <solution id="18" answer="No">$√9-√4=1$</solution>
+   <solution id="19" answer="No">$√{1/4}=0,5$</solution>
+   <solution id="20" answer="No">$√{4/9}=2/3$</solution>
+   <solution id="21" answer="No">$(2√7)^2=28$</solution>
+   <solution id="22" answer="No">$(7·√{1/7})^2=7$</solution>
+   <solution id="23" answer="No">$√2·√8=4$</solution>
+   <solution id="24" answer="No">$√3·√12=6$</solution>
+   <solution id="25" answer="No">$√{5^2-4^2}=3$</solution>
+   <solution id="26" answer="No">$√{4^2+3^2}=5$</solution>
+   <solution id="27" answer="No">$√{9/4}=1,5$</solution>
+   <solution id="28" answer="No">$√^3{8}=2$</solution>
+   <solution id="29" answer="No">$√^3{27}=3$</solution>
+</level>
+
+<level l="3">
+   <topic>Radicals and fractions</topic>
+   <problem id="0" answer="Yes">$√{65^2-56^2}=33$</problem>
+   <problem id="1" answer="Yes">$√{25^2-7^2}=24$</problem>
+   <problem id="2" answer="Yes">${(2√3)^2}/6=2$</problem>
+   <problem id="3" answer="Yes">${(3√2)^2}/18=1$</problem>
+   <problem id="4" answer="Yes">${(2√3)^2}/10=1,2$</problem>
+   <problem id="5" answer="Yes">$(√{13}-√{7})(√{13}+√{7})=6$</problem>
+   <problem id="6" answer="Yes">$(√{12}-√{10})(√{12}+√{10})=2$</problem>
+   <problem id="7" answer="Yes">$121^{0,25}·11^{0,5}=11$</problem>
+   <problem id="8" answer="Yes">$2^{0,3}·8^{0,9}=8$</problem>
+   <problem id="9" answer="Yes">${3^{4,5}}/{9^{1,25}}=9$</problem>
+   <problem id="10" answer="Yes">${4^5}/{8^3}=2$</problem>
+   <problem id="11" answer="Yes">$7^{4/9}·49^{5/18}=7$</problem>
+   <problem id="12" answer="Yes">${√{1,2}·√{0,3}}/{√{0,36}}=1$</problem>
+   <problem id="13" answer="Yes">$35^{-3}·7^{4}:5^{-3}=7$</problem>
+   <problem id="14" answer="Yes">$6^{3}·3^{-2}:2^{3}=3$</problem>
+   <problem id="15" answer="No">$√{65^2-56^2}=11$</problem>
+   <problem id="16" answer="No">$√{25^2-7^2}=22$</problem>
+   <problem id="17" answer="No">${(2√3)^2}/6=4$</problem>
+   <problem id="18" answer="No">${(3√2)^2}/18=3$</problem>
+   <problem id="19" answer="No">${(2√3)^2}/10=2,4$</problem>
+   <problem id="20" answer="No">$(√{13}-√{7})(√{13}+√{7})=√{6}$</problem>
+   <problem id="21" answer="No">$(√{12}-√{10})(√{12}+√{10})=√{12}$</problem>
+   <problem id="22" answer="No">$121^{0,25}·11^{0,5}=121$</problem>
+   <problem id="23" answer="No">$2^{0,3}·8^{0,9}=4$</problem>
+   <problem id="24" answer="No">${3^{4,5}}/{9^{1,25}}=3$</problem>
+   <problem id="25" answer="No">${4^5}/{8^3}=0,5$</problem>
+   <problem id="26" answer="No">$7^{4/9}·49^{5/18}=49$</problem>
+   <problem id="27" answer="No">${√{1,2}·√{0,3}}/{√{0,36}}=√{0,6}$</problem>
+   <problem id="28" answer="No">$35^{-3}·7^{4}:5^{-3}=1/{35}$</problem>
+   <problem id="29" answer="No">$6^{3}·3^{-2}:2^{3}=48$</problem>
+   <solution id="0" answer="Yes">$√{65^2-56^2}=33$</solution>
+   <solution id="1" answer="Yes">$√{25^2-7^2}=24$</solution>
+   <solution id="2" answer="Yes">${(2√3)^2}/6=2$</solution>
+   <solution id="3" answer="Yes">${(3√2)^2}/18=1$</solution>
+   <solution id="4" answer="Yes">${(2√3)^2}/10=1,2$</solution>
+   <solution id="5" answer="Yes">$(√{13}-√{7})(√{13}+√{7})=6$</solution>
+   <solution id="6" answer="Yes">$(√{12}-√{10})(√{12}+√{10})=2$</solution>
+   <solution id="7" answer="Yes">$121^{0,25}·11^{0,5}=11$</solution>
+   <solution id="8" answer="Yes">$2^{0,3}·8^{0,9}=8$</solution>
+   <solution id="9" answer="Yes">${3^{4,5}}/{9^{1,25}}=9$</solution>
+   <solution id="10" answer="Yes">${4^5}/{8^3}=2$</solution>
+   <solution id="11" answer="Yes">$7^{4/9}·49^{5/18}=7$</solution>
+   <solution id="12" answer="Yes">${√{1,2}·√{0,3}}/{√{0,36}}=1$</solution>
+   <solution id="13" answer="Yes">$35^{-3}·7^{4}:5^{-3}=7$</solution>
+   <solution id="14" answer="Yes">$6^{3}·3^{-2}:2^{3}=3$</solution>
+   <solution id="15" answer="No">$√{65^2-56^2}=33$</solution>
+   <solution id="16" answer="No">$√{25^2-7^2}=24$</solution>
+   <solution id="17" answer="No">${(2√3)^2}/6=2$</solution>
+   <solution id="18" answer="No">${(3√2)^2}/18=1$</solution>
+   <solution id="19" answer="No">${(2√3)^2}/10=1,2$</solution>
+   <solution id="20" answer="No">$(√{13}-√{7})(√{13}+√{7})=6$</solution>
+   <solution id="21" answer="No">$(√{12}-√{10})(√{12}+√{10})=2$</solution>
+   <solution id="22" answer="No">$121^{0,25}·11^{0,5}=11$</solution>
+   <solution id="23" answer="No">$2^{0,3}·8^{0,9}=8$</solution>
+   <solution id="24" answer="No">${3^{4,5}}/{9^{1,25}}=9$</solution>
+   <solution id="25" answer="No">${4^5}/{8^3}=2$</solution>
+   <solution id="26" answer="No">$7^{4/9}·49^{5/18}=7$</solution>
+   <solution id="27" answer="No">${√{1,2}·√{0,3}}/{√{0,36}}=1$</solution>
+   <solution id="28" answer="No">$35^{-3}·7^{4}:5^{-3}=7$</solution>
+   <solution id="29" answer="No">$6^{3}·3^{-2}:2^{3}=3$</solution>
+</level>
+
+<level l="4">
+<topic>Trigonometry</topic>
+<problem id="0" answer="Yes"> $\sin 45º = \cos 45º$ </problem>
+<problem id="1" answer="Yes"> $\cos 60º = 0,5$</problem>
+<problem id="2" answer="Yes"> $\tg 45º = 1$</problem>
+<problem id="3" answer="Yes"> $\sin 90º = 1$</problem>
+<problem id="4" answer="Yes"> $\tg 30º=1/{√3}$</problem>
+<problem id="5" answer="Yes"> $\tg 60º=√3$</problem>
+<problem id="6" answer="Yes"> $\sin 0º=\cos 90º$</problem>
+<problem id="7" answer="Yes"> $\sin 30º=0,5$</problem>
+<problem id="8" answer="Yes"> $\cos 30º=√3/2$</problem>
+<problem id="9" answer="Yes"> $\ctg 30º·\tg 30º=1$</problem>
+<problem id="10" answer="Yes"> $\sin 25º-\cos 65º=0$</problem>
+<problem id="11" answer="Yes"> $\sin 150º=\sin 30º$</problem>
+<problem id="12" answer="Yes"> $\cos 120º=-1/2$</problem>
+<problem id="13" answer="Yes"> $\tg 150º=-\tg 30º$</problem>
+<problem id="14" answer="Yes"> $\ctg 95º=-\tg 5º$</problem>
+<problem id="15" answer="No"> $\sin 45º + \cos 45º=1$ </problem>
+<problem id="16" answer="No"> $\cos 60º = {√3}/2$</problem>
+<problem id="17" answer="No"> $\tg 45º = {√2}/2$</problem>
+<problem id="18" answer="No"> $\sin 90º = 0$</problem>
+<problem id="19" answer="No"> $\tg 30º={√3}$</problem>
+<problem id="20" answer="No"> $\tg 60º=√2$</problem>
+<problem id="21" answer="No"> $\sin 0º+\cos 90º=1$</problem>
+<problem id="22" answer="No"> $\sin 30º={√3}/2$</problem>
+<problem id="23" answer="No"> $\cos 30º=1/2$</problem>
+<problem id="24" answer="No"> $\ctg 30º · \tg 30º=-1$</problem>
+<problem id="25" answer="No"> $\sin 25º-\cos 65º=-1$</problem>
+<problem id="26" answer="No"> $\sin 150º=-\sin 30º$</problem>
+<problem id="27" answer="No"> $\cos 120º=1/2$</problem>
+<problem id="28" answer="No"> $\tg 150º=\tg 30º$</problem>
+<problem id="29" answer="No"> $\ctg 95º=-\ctg 5º$</problem>
+<solution id="0" answer="Yes"> $\sin 45º = \cos 45º$ </solution>
+<solution id="1" answer="Yes"> $\cos 60º = 0,5$</solution>
+<solution id="2" answer="Yes"> $\tg 45º = 1$</solution>
+<solution id="3" answer="Yes"> $\sin 90º = 1$</solution>
+<solution id="4" answer="Yes"> $\tg 30º=1/{√3}$</solution>
+<solution id="5" answer="Yes"> $\tg 60º=√3$</solution>
+<solution id="6" answer="Yes"> $\sin 0º=\cos 90º$</solution>
+<solution id="7" answer="Yes"> $\sin 30º=0,5$</solution>
+<solution id="8" answer="Yes"> $\cos 30º=√3/2$</solution>
+<solution id="9" answer="Yes"> $\ctg 30º·\tg 30º=1$</solution>
+<solution id="10" answer="Yes"> $\sin 25º-\cos 65º=0$</solution>
+<solution id="11" answer="Yes"> $\sin 150º=\sin 30º$</solution>
+<solution id="12" answer="Yes"> $\cos 120º=-1/2$</solution>
+<solution id="13" answer="Yes"> $\tg 150º=-\tg 30º$</solution>
+<solution id="14" answer="Yes"> $\ctg 95º=-\tg 5º$</solution>
+<solution id="15" answer="No"> $\sin 45º + \cos 45º=√2$ </solution>
+<solution id="16" answer="No"> $\cos 60º = 0,5$</solution>
+<solution id="17" answer="No"> $\tg 45º = 1$</solution>
+<solution id="18" answer="No"> $\sin 90º = 1$</solution>
+<solution id="19" answer="No"> $\tg 30º=1/{√3}$</solution>
+<solution id="20" answer="No"> $\tg 60º=√3$</solution>
+<solution id="21" answer="No"> $\sin 0º+\cos 90º=0+0=0$</solution>
+<solution id="22" answer="No"> $\sin 30º=0,5$</solution>
+<solution id="23" answer="No"> $\cos 30º=√3/2$</solution>
+<solution id="24" answer="No"> $\ctg 30º·\tg 30º=1$</solution>
+<solution id="25" answer="No"> $\sin 25º-\cos 65º=0$</solution>
+<solution id="26" answer="No"> $\sin 150º=\sin 30º$</solution>
+<solution id="27" answer="No"> $\cos 120º=-1/2$</solution>
+<solution id="28" answer="No"> $\tg 150º=-\tg 30º$</solution>
+<solution id="29" answer="No"> $\ctg 95º=\tg{90º-95º}=-\tg 5º$</solution>
+
+</level>
+</game>

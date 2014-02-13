@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<game>
+<level l="1">
+   <problem id="0" answer="Yes">  asdf </problem>
+   <problem id="1" answer="No">3+5=7</problem>
+   <problem id="2" answer="Yes">Zebra is an animal</problem>
+   <solution id="0">  Solution for problem 1 </problem>
+   <solution id="1">3+5=8</problem>
+   <solution id="2">Zebra is an animal</problem>
+</level>
+
+<level l="2">
+   <problem id="0" answer="Yes">3*3=9</problem>
+   <problem id="1" answer="No">3+7=9</problem>
+   <problem id="2" answer="Yes">Dog is an animal</problem>
+   <solution id="0">  Solution for problem 1 l2 </problem>
+   <solution id="1">3+5=8 l2</problem>
+   <solution id="2">Zebra is an animal l2</problem>
+</level>
+
+
+<level l="3">
+<topic name="definitions of functions" />
+<problem id="0" answer="Yes"> $\sin 45º = \cos 45º$ </problem>
+<problem id="1" answer="Yes"> $\cos 30º = 0,5$</problem>
+<problem id="2" answer="Yes"> $\tg 45º = 1$</problem>
+<problem id="3" answer="Yes"> $\sin 90º = 1$</problem>
+<problem id="4" answer="Yes"> $\tg 30º=1/{√3}$</problem>
+<problem id="5" answer="Yes"> $\tg 60º=√3$</problem>
+<problem id="6" answer="Yes"> $\sin 0º=\cos 90º$</problem>
+<problem id="7" answer="Yes"> $\sin 60º=0,5$</problem>
+<problem id="8" answer="Yes"> $\cos 60º=√3/2$</problem>
+<problem id="9" answer="Yes"> $\ctg 30º • \tg 30º=1$</problem>
+<topic name="формулы приведения" />
+<problem id="10" answer="Yes"> $\sin 25º-\cos 65º=0$</problem>
+<problem id="11" answer="Yes"> $\sin 150º=\sin 30º$</problem>
+<problem id="12" answer="Yes"> $\cos 120º=-1/2$</problem>
+<problem id="13" answer="Yes"> $\tg 150º=-\tg 30º$</problem>
+<problem id="14" answer="Yes"> $\ctg 95º=-\ctg 95º$</problem>
+<topic name="definitions of functions" />
+<problem id="20" answer="Yes"> $\sin 45º = \cos 45º$ </problem>
+<problem id="21" answer="Yes"> $\cos 30º = 0,5$</problem>
+<problem id="22" answer="Yes"> $\tg 45º = 1$</problem>
+<problem id="23" answer="Yes"> $\sin 90º = 1$</problem>
+<problem id="24" answer="Yes"> $\tg 30º=1/{√3}$</problem>
+<problem id="25" answer="Yes"> $\tg 60º=√3$</problem>
+<problem id="26" answer="Yes"> $\sin 0º=\cos 90º$</problem>
+<problem id="27" answer="Yes"> $\sin 60º=0,5$</problem>
+<problem id="28" answer="Yes"> $\cos 60º=√3/2$</problem>
+<problem id="29" answer="Yes"> $\ctg 30º • \tg 30º=1$</problem>
+<topic name="формулы приведения" />
+<problem id="30" answer="No"> $\sin 25º-\cos 65º=-1$</problem>
+<problem id="31" answer="No"> $\sin 150º=-\sin 30º$</problem>
+<problem id="32" answer="No"> $\cos 120º=1/2$</problem>
+<problem id="33" answer="No"> $\tg 150º=\tg 30º$</problem>
+<problem id="34" answer="No"> $\ctg 95º=-\ctg 5º$</problem>
+
+</level>
+
+<level l="4">
+<topic name="основное тригонометрическое тождество" />
+<problem id="0" answer="Yes"> $\sin^2 30º+\cos^2 30º=1$</problem>
+<problem id="1" answer="Yes"> $\sin^2 50º+\sin^2 40º=1$</problem>
+<problem id="2" answer="Yes"> $\cos^2 150º+\sin^2 150º=1$</problem>
+<problem id="3" answer="Yes">$\cos^2 π/3 +\cos^2 π/6=1$</problem>
+<problem id="4" answer="Yes">$\tg^2 30º+1=1/ {\cos^2 30º}$</problem>
+<topic name="формулы двойного угла" />
+<problem id="5" answer="Yes">$2\sin 15º\cos15º=√3/2$</problem>
+<problem id="6" answer="Yes">$\cos^2 30º-\sin^2 30º=\cos 60º$</problem>
+<problem id="7" answer="Yes">$2\cos^2 15º-1=\cos 30º$</problem>
+<problem id="8" answer="Yes">$2\cos^2 15º=\cos 30º+1$</problem>
+<problem id="9" answer="Yes">$2\sin 75º\cos 75º=\sin 150º$</problem>
+
+</level>
+</game>

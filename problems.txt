@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<game>
+<level l="1">
+   <topic>Basic arithmetic</topic>
+<problem id="1" answer = "Yes"></problem>
+<problem id="2" answer = "Yes"><fmath alttext="12+4=16" class="fm-inline"><mrow><mrow><mn>12</mn><mo class="fm-infix">+</mo><mn>4</mn></mrow><mo class="fm-infix-loose">=</mo><mn>16</mn></mrow></fmath></problem>
+<problem id="3" answer = "Yes"></problem>
+<problem id="4" answer = "Yes"><fmath alttext="3+5=8" class="fm-inline"><mrow><mrow><mn>3</mn><mo class="fm-infix">+</mo><mn>5</mn></mrow><mo class="fm-infix-loose">=</mo><mn>8</mn></mrow></fmath></problem>
+<problem id="5" answer = "Yes"></problem>
+<problem id="6" answer = "Yes"><fmath alttext="6+8=14" class="fm-inline"><mrow><mrow><mn>6</mn><mo class="fm-infix">+</mo><mn>8</mn></mrow><mo class="fm-infix-loose">=</mo><mn>14</mn></mrow></fmath></problem>
+<problem id="7" answer = "Yes"></problem>
+<problem id="8" answer = "Yes">
+<fmath alttext="3+11=14" class="fm-inline"><mrow><mrow><mn>3</mn><mo class="fm-infix">+</mo><mn>11</mn></mrow><mo class="fm-infix-loose">=</mo><mn>14</mn></mrow></fmath></problem>
+<problem id="9" answer = "Yes">
+</problem>
+<problem id="10" answer = "Yes">
+<fmath alttext="15-12=3" class="fm-inline"><mrow><mrow><mn>15</mn><mo class="fm-infix">−</mo><mn>12</mn></mrow><mo class="fm-infix-loose">=</mo><mn>3</mn></mrow></fmath></problem>
+<problem id="11" answer = "Yes">
+</problem>
+<problem id="12" answer = "Yes">
+<fmath alttext="25+4=29" class="fm-inline"><mrow><mrow><mn>25</mn><mo class="fm-infix">+</mo><mn>4</mn></mrow><mo class="fm-infix-loose">=</mo><mn>29</mn></mrow></fmath>
+</problem>
+<problem id="13" answer = "Yes"></problem>
+<problem id="14" answer = "Yes">
+<fmath alttext="13-4=9" class="fm-inline"><mrow><mrow><mn>13</mn><mo class="fm-infix">−</mo><mn>4</mn></mrow><mo class="fm-infix-loose">=</mo><mn>9</mn></mrow></fmath>
+</problem>
+<problem id="15" answer = "Yes"></problem>
+<problem id="16" answer = "Yes">
+<fmath alttext="3·7=21" class="fm-inline"><mrow><mrow><mn>3</mn><mo class="fm-infix">·</mo><mn>7</mn></mrow><mo class="fm-infix-loose">=</mo><mn>21</mn></mrow></fmath>
+</problem>
+<problem id="17" answer = "Yes"></problem>
+<problem id="18" answer = "Yes">
+<fmath alttext="6·8=48" class="fm-inline"><mrow><mrow><mn>6</mn><mo class="fm-infix">·</mo><mn>8</mn></mrow><mo class="fm-infix-loose">=</mo><mn>48</mn></mrow></fmath>
+</problem>
+<problem id="19" answer = "Yes"></problem>
+<problem id="20" answer = "Yes">
+<fmath alttext="6·7=42" class="fm-inline"><mrow><mrow><mn>6</mn><mo class="fm-infix">·</mo><mn>7</mn></mrow><mo class="fm-infix-loose">=</mo><mn>42</mn></mrow></fmath>
+</problem>
+<problem id="21" answer = "Yes"></problem>
+<problem id="22" answer = "Yes">
+<fmath alttext="12·9=108" class="fm-inline"><mrow><mrow><mn>12</mn><mo class="fm-infix">·</mo><mn>9</mn></mrow><mo class="fm-infix-loose">=</mo><mn>108</mn></mrow></fmath>
+</problem>
+<problem id="23" answer = "Yes"></problem>
+<problem id="24" answer = "Yes">
+<fmath alttext="42/6=7" class="fm-inline"><mrow><span mtagname="mfrac" style="vertical-align: 0em;"><span class="fm-vert fm-frac"><table><tbody><tr><td class="fm-num-frac fm-inline"><mn>42</mn></td></tr><tr><td class="fm-den-frac fm-inline"><mn>6</mn></td></tr></tbody></table></span></span><mo class="fm-infix-loose">=</mo><mn>7</mn></mrow></fmath>
+</problem>
+<problem id="25" answer = "Yes"></problem>
+<problem id="26" answer = "Yes"><fmath alttext="56/4=14" class="fm-inline"><mrow><span mtagname="mfrac" style="vertical-align: 0em;"><span class="fm-vert fm-frac"><table><tbody><tr><td class="fm-num-frac fm-inline"><mn>56</mn></td></tr><tr><td class="fm-den-frac fm-inline"><mn>4</mn></td></tr></tbody></table></span></span><mo class="fm-infix-loose">=</mo><mn>14</mn></mrow></fmath></problem>
+<problem id="27" answer = "Yes"></problem>
+<problem id="28" answer = "Yes"><fmath alttext="35/5=7" class="fm-inline"><mrow><span mtagname="mfrac" style="vertical-align: 0em;"><span class="fm-vert fm-frac"><table><tbody><tr><td class="fm-num-frac fm-inline"><mn>35</mn></td></tr><tr><td class="fm-den-frac fm-inline"><mn>5</mn></td></tr></tbody></table></span></span><mo class="fm-infix-loose">=</mo><mn>7</mn></mrow></fmath></problem>
+<problem id="29" answer = "Yes"></problem>
+<problem id="30" answer = "Yes"><fmath alttext="16/4=4" class="fm-inline"><mrow><span mtagname="mfrac" style="vertical-align: 0em;"><span class="fm-vert fm-frac"><table><tbody><tr><td class="fm-num-frac fm-inline"><mn>16</mn></td></tr><tr><td class="fm-den-frac fm-inline"><mn>4</mn></td></tr></tbody></table></span></span><mo class="fm-infix-loose">=</mo><mn>4</mn></mrow></fmath></problem>
+<problem id="31" answer = "Yes"></problem>
+<problem id="32" answer = "Yes"><fmath alttext="12+4=14" class="fm-inline"><mrow><mrow><mn>12</mn><mo class="fm-infix">+</mo><mn>4</mn></mrow><mo class="fm-infix-loose">=</mo><mn>14</mn></mrow></fmath></problem>
+<problem id="33" answer = "Yes"></problem>
+<problem id="34" answer = "Yes"><fmath alttext="3+5=7" class="fm-inline"><mrow><mrow><mn>3</mn><mo class="fm-infix">+</mo><mn>5</mn></mrow><mo class="fm-infix-loose">=</mo><mn>7</mn></mrow></fmath></problem>
+<problem id="35" answer = "Yes"></problem>
+<problem id="36" answer = "Yes"><fmath alttext="6+8=12" class="fm-inline"><mrow><mrow><mn>6</mn><mo class="fm-infix">+</mo><mn>8</mn></mrow><mo class="fm-infix-loose">=</mo><mn>12</mn></mrow></fmath></problem>
+<problem id="37" answer = "Yes"></problem>
+<problem id="38" answer = "Yes"><fmath alttext="3+11=15" class="fm-inline"><mrow><mrow><mn>3</mn><mo class="fm-infix">+</mo><mn>11</mn></mrow><mo class="fm-infix-loose">=</mo><mn>15</mn></mrow></fmath></problem>
+<problem id="39" answer = "Yes"></problem>
+<problem id="40" answer = "Yes"><fmath alttext="15-11=3" class="fm-inline"><mrow><mrow><mn>15</mn><mo class="fm-infix">−</mo><mn>11</mn></mrow><mo class="fm-infix-loose">=</mo><mn>3</mn></mrow></fmath></problem>
+<problem id="41" answer = "Yes"></problem>
+<problem id="42" answer = "Yes"><fmath alttext="25+4=31" class="fm-inline"><mrow><mrow><mn>25</mn><mo class="fm-infix">+</mo><mn>4</mn></mrow><mo class="fm-infix-loose">=</mo><mn>31</mn></mrow></fmath></problem>
+<problem id="43" answer = "Yes"></problem>
+<problem id="44" answer = "Yes"><fmath alttext="13-4=11" class="fm-inline"><mrow><mrow><mn>13</mn><mo class="fm-infix">−</mo><mn>4</mn></mrow><mo class="fm-infix-loose">=</mo><mn>11</mn></mrow></fmath></problem>
+<problem id="45" answer = "Yes"></problem>
+<problem id="46" answer = "Yes"><fmath alttext="3·7=23" class="fm-inline"><mrow><mrow><mn>3</mn><mo class="fm-infix">·</mo><mn>7</mn></mrow><mo class="fm-infix-loose">=</mo><mn>23</mn></mrow></fmath></problem>
+<problem id="47" answer = "Yes"></problem>
+<problem id="48" answer = "Yes"><fmath alttext="6·8=56" class="fm-inline"><mrow><mrow><mn>6</mn><mo class="fm-infix">·</mo><mn>8</mn></mrow><mo class="fm-infix-loose">=</mo><mn>56</mn></mrow></fmath></problem>
+<problem id="49" answer = "Yes"></problem>
+<problem id="50" answer = "Yes"><fmath alttext="6·7=56" class="fm-inline"><mrow><mrow><mn>6</mn><mo class="fm-infix">·</mo><mn>7</mn></mrow><mo class="fm-infix-loose">=</mo><mn>56</mn></mrow></fmath></problem>
+<problem id="51" answer = "Yes"></problem>
+<problem id="52" answer = "Yes"><fmath alttext="12·9=114" class="fm-inline"><mrow><mrow><mn>12</mn><mo class="fm-infix">·</mo><mn>9</mn></mrow><mo class="fm-infix-loose">=</mo><mn>114</mn></mrow></fmath></problem>
+<problem id="53" answer = "Yes"></problem>
+<problem id="54" answer = "Yes"><fmath alttext="42/6=8" class="fm-inline"><mrow><span mtagname="mfrac" style="vertical-align: 0em;"><span class="fm-vert fm-frac"><table><tbody><tr><td class="fm-num-frac fm-inline"><mn>42</mn></td></tr><tr><td class="fm-den-frac fm-inline"><mn>6</mn></td></tr></tbody></table></span></span><mo class="fm-infix-loose">=</mo><mn>8</mn></mrow></fmath></problem>
+<problem id="55" answer = "Yes"></problem>
+<problem id="56" answer = "Yes"><fmath alttext="56/4=12" class="fm-inline"><mrow><span mtagname="mfrac" style="vertical-align: 0em;"><span class="fm-vert fm-frac"><table><tbody><tr><td class="fm-num-frac fm-inline"><mn>56</mn></td></tr><tr><td class="fm-den-frac fm-inline"><mn>4</mn></td></tr></tbody></table></span></span><mo class="fm-infix-loose">=</mo><mn>12</mn></mrow></fmath></problem>
+<problem id="57" answer = "Yes"></problem>
+<problem id="58" answer = "Yes"><fmath alttext="35/5=13" class="fm-inline"><mrow><span mtagname="mfrac" style="vertical-align: 0em;"><span class="fm-vert fm-frac"><table><tbody><tr><td class="fm-num-frac fm-inline"><mn>35</mn></td></tr><tr><td class="fm-den-frac fm-inline"><mn>5</mn></td></tr></tbody></table></span></span><mo class="fm-infix-loose">=</mo><mn>13</mn></mrow></fmath></problem>
+<problem id="59" answer = "Yes"></problem>
+<problem id="60" answer = "Yes"><fmath alttext="16/4=8" class="fm-inline"><mrow><span mtagname="mfrac" style="vertical-align: 0em;"><span class="fm-vert fm-frac"><table><tbody><tr><td class="fm-num-frac fm-inline"><mn>16</mn></td></tr><tr><td class="fm-den-frac fm-inline"><mn>4</mn></td></tr></tbody></table></span></span><mo class="fm-infix-loose">=</mo><mn>8</mn></mrow></fmath></problem>
+<problem id="61" answer = "Yes"></problem>
+</level>
+</game>
